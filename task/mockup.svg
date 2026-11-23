@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="452" viewBox="0 0 360 452" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+  <rect x="0.5" y="0.5" width="359" height="451" rx="12" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="32" y="48" font-size="18" font-weight="700" fill="#0f172a">Revenue by region</text>
+  <g transform="translate(80 68)">
+    <circle cx="100" cy="100" r="70" fill="none" stroke="#2563eb" stroke-width="28" stroke-dasharray="190.590 249.233" stroke-dashoffset="0.000" transform="rotate(-90 100 100)"/>
+    <circle cx="100" cy="100" r="70" fill="none" stroke="#f59e0b" stroke-width="28" stroke-dasharray="113.621 326.202" stroke-dashoffset="-190.590" transform="rotate(-90 100 100)"/>
+    <circle cx="100" cy="100" r="70" fill="none" stroke="#10b981" stroke-width="28" stroke-dasharray="69.639 370.184" stroke-dashoffset="-304.211" transform="rotate(-90 100 100)"/>
+    <circle cx="100" cy="100" r="70" fill="none" stroke="#ef4444" stroke-width="28" stroke-dasharray="43.982 395.841" stroke-dashoffset="-373.850" transform="rotate(-90 100 100)"/>
+    <circle cx="100" cy="100" r="70" fill="none" stroke="#8b5cf6" stroke-width="28" stroke-dasharray="21.991 417.832" stroke-dashoffset="-417.832" transform="rotate(-90 100 100)"/>
+    <text x="100" y="106" font-size="26" font-weight="700" fill="#0f172a" text-anchor="middle">1,200</text>
+    <text x="100" y="126" font-size="12" fill="#64748b" text-anchor="middle">Total</text>
+  </g>
+  <rect x="32" y="302" width="12" height="12" rx="2" fill="#2563eb"/>
+  <text x="54" y="312" font-size="14" fill="#0f172a">North America</text>
+  <text x="328" y="312" font-size="14" fill="#0f172a" text-anchor="end">43%</text>
+  <rect x="32" y="330" width="12" height="12" rx="2" fill="#f59e0b"/>
+  <text x="54" y="340" font-size="14" fill="#0f172a">Europe</text>
+  <text x="328" y="340" font-size="14" fill="#0f172a" text-anchor="end">26%</text>
+  <rect x="32" y="358" width="12" height="12" rx="2" fill="#10b981"/>
+  <text x="54" y="368" font-size="14" fill="#0f172a">Asia Pacific</text>
+  <text x="328" y="368" font-size="14" fill="#0f172a" text-anchor="end">16%</text>
+  <rect x="32" y="386" width="12" height="12" rx="2" fill="#ef4444"/>
+  <text x="54" y="396" font-size="14" fill="#0f172a">Latin America</text>
+  <text x="328" y="396" font-size="14" fill="#0f172a" text-anchor="end">10%</text>
+  <rect x="32" y="414" width="12" height="12" rx="2" fill="#8b5cf6"/>
+  <text x="54" y="424" font-size="14" fill="#0f172a">Other</text>
+  <text x="328" y="424" font-size="14" fill="#0f172a" text-anchor="end">5%</text>
+</svg>
