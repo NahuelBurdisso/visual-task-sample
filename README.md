@@ -10,6 +10,8 @@ reject it.
 The modelled task: implement a `DonutChart` React component (SVG donut, title, centre
 total, legend with per-category percentages) from a mockup.
 
+![Reference implementation rendering the sample dataset](docs/reference.png)
+
 ## What this demonstrates
 
 1. A mockup shows one frame of one dataset. `task/TASK.md` closes every gap it leaves:
